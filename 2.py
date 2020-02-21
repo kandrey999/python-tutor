@@ -5,5 +5,5 @@
 # l = 2.3e6
 # print ((-(c * mw * dt)) / l )
 
-s = 2**10000000
+s = 2**100
 print(len(str(s)))
